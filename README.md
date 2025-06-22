@@ -33,3 +33,9 @@ Complete the functions in `nested.js` to pass the tests in `nested.test.js`.
 ## Submission
 
 Please submit the link to your public GitHub repository.
+
+
+## Em's learning note:
+1. review on U1's truthy and falsy -- =, == and === difference
+2. if branching/conditions/cases can be evaluated INDEPENDENTLY -- use ifs instead of if-else if ... 
+
